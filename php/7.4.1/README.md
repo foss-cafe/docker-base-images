@@ -10,5 +10,5 @@
 
 ```bash
 docker build --build-arg BASE_IMAGE=quay.io/fosscafe/alpine:3.11 -t quay.io/fosscafe/php:7.4.1 .
-docker push uay.io/fosscafe/php:7.4.1
+docker push quay.io/fosscafe/php:7.4.1
 ```
